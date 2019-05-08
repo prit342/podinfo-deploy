@@ -1,0 +1,1 @@
+{"jobID":"381abca1-9410-2f7c-7b09-7c1ff9e3afea","spec":{"type":"policy","cause":{"Message":"unlocked","User":"Prithak Sharma \u003cprithak@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"locked":"true","locked_msg":"\"unlocked\"","locked_user":"Prithak Sharma \u003cprithak@gmail.com\u003e"}}}},"result":null}
