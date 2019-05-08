@@ -1,0 +1,1 @@
+{"jobID":"e65fdc21-a868-d1aa-4780-92a45093b071","spec":{"type":"policy","cause":{"Message":"do not make changes here","User":"Prithak Sharma \u003cprithak@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"locked":"true","locked_msg":"\"do not make changes here\"","locked_user":"Prithak Sharma \u003cprithak@gmail.com\u003e"},"remove":null}}},"result":null}
