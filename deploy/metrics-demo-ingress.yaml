@@ -18,6 +18,6 @@ spec:
       - backend:
           serviceName: mighty-fine
           servicePort: 3000
-        path: /podinfo
+        path: /mighty-fine
 status:
   loadBalancer: {}
